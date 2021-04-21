@@ -10,52 +10,52 @@ I'm a professional in the Sales Industry . I have worked as Sales Supervisor for
 
   <div>
         <span>
-          <a href="https://devdocs.io/html/">
+          <a href="https://devdocs.io/html/" target="_blank">
             <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
           </a>
         </span>
         <span>
-          <a href="https://devdocs.io/css/">
+          <a href="https://devdocs.io/css/" target="_blank">
              <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
           </a>
         </span> 
         <span>
-          <a href="https://www.python.org">
+          <a href="https://www.python.org" target="_blank">
               <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
           </a>
         </span> 
         <span>
-          <a href="https://www.php.net">
+          <a href="https://www.php.net" target="_blank">
               <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
           </a>
         </span> 
         <span>
-          <a href="https://www.java.com/pt-BR/">
+          <a href="https://www.java.com/pt-BR/" target="_blank">
              <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
           </a>
         </span> 
         <span>
-          <a href="https://www.javascript.com">
+          <a href="https://www.javascript.com" target="_blank">
              <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           </a>
         </span> 
         <span>
-          <a href="https://getbootstrap.com">
+          <a href="https://getbootstrap.com" target="_blank">
               <img width="5.1%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
           </a>
         </span> 
         <span>
-          <a href="https://jquery.com">
+          <a href="https://jquery.com" target="_blank">
               <img width="5.1%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
           </a>
         </span> 
         <span>
-          <a href="https://www.mysql.com">
+          <a href="https://www.mysql.com" target="_blank">
               <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
           </a>
         </span> 
         <span>
-          <a href="https://www.djangoproject.com">
+          <a href="https://www.djangoproject.com" target="_blank">
              <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg">
           </a>
         </span> 
@@ -65,12 +65,12 @@ I'm a professional in the Sales Industry . I have worked as Sales Supervisor for
   
    <div>
         <span>
-          <a href="https://visualstudio.microsoft.com/pt-br/">
+          <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank">
             <img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
           </a>
         </span>
         <span>
-          <a href="https://atom.io">
+          <a href="https://atom.io" target="_blank">
             <img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg">
           </a>
         </span> 
@@ -80,17 +80,17 @@ I'm a professional in the Sales Industry . I have worked as Sales Supervisor for
   
   <div>
         <span>
-          <a href="https://www.gimp.org">
+          <a href="https://www.gimp.org" target="_blank">
             <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
           </a>
         </span>
        <span>
-         <a href="https://github.com">
+         <a href="https://github.com" target="_blank">
           <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
          </a>
         </span>
         <span>
-          <a href="https://git-scm.com">
+          <a href="https://git-scm.com" target="_blank">
             <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
           </a>
         </span>
@@ -100,12 +100,12 @@ I'm a professional in the Sales Industry . I have worked as Sales Supervisor for
   
   <div>
         <span>
-          <a href="https://www.microsoft.com/pt-br/windows/">
+          <a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
             <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
           </a>
         </span>
         <span>
-          <a href="https://www.linux.org">
+          <a href="https://www.linux.org" target="_blank">
             <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
           </a>
         </span>
@@ -115,12 +115,12 @@ I'm a professional in the Sales Industry . I have worked as Sales Supervisor for
 
   <div>
         <span>   
-          <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/">
+          <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
             <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/">
+          <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
             <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
           </a>
         </span>
