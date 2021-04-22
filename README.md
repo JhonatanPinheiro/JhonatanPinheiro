@@ -6,7 +6,7 @@
 
 I'm a professional in the Sales Industry . I have worked as Sales Supervisor for Burger King. Currently I have been studying for a degree in IT System Analysis and Development. Furthemore, I have basic knowledge in Spanish and English besides of my mother tongue : Portuguese. Thus, I am looking for an opportunity to enrich my knowledge and apply in practice my learning at work and what I have been learning in FATEC college.
 
-## Sobre Mim (Pot-Br)
+## Sobre Mim (Pt-Br)
 Sou um profissional na Área de Vendas. Atuava como Supervisor de Vendas pela empresa Burger King e estou cursando a graduação em Análise e Desenvolvimento de Sistema em TI. Tenho conhecimentos básicos nos idiomas Espanhol e Inglês. Com isso, estou em busca de uma oportunidade para enriquecer meu conhecimento e aplicar em prática meu aprendizado no trabalho e o que venho aprendendo na faculdade FATEC.
 
 ### Skills - Habilidades
