@@ -4,7 +4,7 @@
 
 ## About to me (Eng)
 
-I'm a professional in the Sales Industry . I have worked as Sales Supervisor for Burger King. Currently I have been studying for a degree in IT System Analysis and Development. Furthemore, I have basic knowledge in Spanish and English besides of my mother tongue : Portuguese. Thus, I am looking for an opportunity to enrich my knowledge and apply in practice my learning at work and what I have been learning in FATEC college.
+I am a professional in the Information Technology and Sales fields. I have worked as a Computer Support Analyst at Adesso and as a Sales Supervisor at Burger King. I have a degree in Systems Analysis and Development (IT). Additionally, I have basic knowledge of Spanish and intermediate proficiency in English, in addition to my native language: Portuguese.
 
 ## Sobre Mim (Pt-Br)
 Sou um profissional na área da Tecnologia da informação e também em vendas. Já trabalhei como Analista de suporte computacional na Adesso e como Supervisor de vendas no Burger King. Sou formado em Análise e Desenvolvimento de Sistemas (TI) . Além disso, possuo conhecimentos básicos de espanhol e intermediário no inglês, além da minha língua materna: o português.
