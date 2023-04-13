@@ -13,61 +13,11 @@ Sou um profissional na área da Tecnologia da informação e também em vendas. 
 ### Skills - Habilidades
 
   <div>
-        <span>
-          <a href="https://devdocs.io/html/" target="_blank">
-            <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-          </a>
-        </span>
-        <span>
-          <a href="https://devdocs.io/css/" target="_blank">
-             <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://www.python.org" target="_blank">
-              <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://www.php.net" target="_blank">
-              <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://www.java.com/pt-BR/" target="_blank">
-             <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://www.javascript.com" target="_blank">
-             <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://getbootstrap.com" target="_blank">
-              <img width="5.1%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://jquery.com" target="_blank">
-              <img width="5.1%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://www.mysql.com" target="_blank">
-              <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://www.djangoproject.com" target="_blank">
-             <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg">
-          </a>
-        </span> 
-        <span>
-          <a href="https://reactnative.dev" target="_blank">
-             React
-          </a>
-        </span>
+      <ol>  
+          <li>
+            teste
+           <li/>
+      </ol>
   </div>
   
   ## Tools - Ferramentas
