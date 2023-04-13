@@ -24,13 +24,11 @@ português.
                 <span>HTML5</span>
             </a>
         </li>
-        <br>
         <li>
             <a href="">
                 <span>CSS3</span>
             </a>
         </li>
-        <br>
         <li>
             <a href="">
                 <span>Python 3</span>
