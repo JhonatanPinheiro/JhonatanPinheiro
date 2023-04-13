@@ -16,7 +16,7 @@ Sou um profissional na área da Tecnologia da informação e também em vendas. 
       <ul>  
           <li>
             <a href="">
-              <img width="15%" src="https://user-images.githubusercontent.com/48757466/231865453-c46abead-c5d0-4ee6-a48f-17c683dd2641.svg"/>
+              <img width="8%" src="https://user-images.githubusercontent.com/48757466/231865453-c46abead-c5d0-4ee6-a48f-17c683dd2641.svg"/>
             </a>
            <li/>
       </ul>
