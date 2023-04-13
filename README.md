@@ -21,25 +21,25 @@ português.
     <ul>
         <li>
             <a href="">
-                <span>HTML5</span>
+                HTML5
             </a>
         </li>
         <BR>
         <li>
             <a href="">
-                <span>CSS3</span>
+                CSS3
             </a>
         </li>
 
         <li>
             <a href="">
-                <span>Python 3</span>
+                Python 3
             </a>
         </li>
 
         <li>
             <a href="">
-                <span>JavaScript</span>
+                JavaScript
             </a>
             <ul>
                 <li>
