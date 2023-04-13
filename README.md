@@ -36,6 +36,11 @@ português.
         </li>
         <li>
             <a href="">
+                <span>PHP7</span>
+            </a>
+        </li>
+        <li>
+            <a href="">
                 <span>JavaScript</span>
             </a>
             <ul>
