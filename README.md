@@ -65,7 +65,7 @@ Sou um profissional na área da Tecnologia da informação e também em vendas. 
         </span> 
         <span>
           <a href="https://reactnative.dev" target="_blank">
-             <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg">
+             React
           </a>
         </span>
   </div>
