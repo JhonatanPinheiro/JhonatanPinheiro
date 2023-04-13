@@ -161,7 +161,7 @@ português.
     </span>
     <span>
         <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
-            <img width="5%" alt="React Native"
+            <img width="5%"
                 src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" />
         </a>
     </span>
@@ -178,6 +178,7 @@ português.
 - Blockchain :globe_with_meridians:
 - Financial market (Mercado Financeiro) :chart:
 - Muay Thai :boxing_glove:
+- Gym Rat 🏋️
 - Travel (Viajar) :airplane:
 
 
