@@ -87,12 +87,7 @@ Sou um profissional na área da Tecnologia da informação e também em vendas. 
   
   <br>
   
-  <div>
-        <span>
-          <a href="https://www.gimp.org" target="_blank">
-            <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
-          </a>
-        </span>
+  <div
        <span>
          <a href="https://github.com" target="_blank">
           <img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
