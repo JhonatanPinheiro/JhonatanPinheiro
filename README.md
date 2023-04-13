@@ -21,45 +21,43 @@ português.
     <ul>
         <li>
             <a href="">
-                HTML5
+                <span>HTML5</span>
             </a>
         </li>
-        <BR>
+        <br>
         <li>
             <a href="">
-                CSS3
+                <span>CSS3</span>
             </a>
         </li>
-
+        <br>
         <li>
             <a href="">
-                Python 3
+                <span>Python 3</span>
             </a>
         </li>
-
+        <br>
         <li>
             <a href="">
-                JavaScript
+                <span>JavaScript</span>
             </a>
+        <br>
             <ul>
                 <li>
                     <a href="">
                         <span>React</span>
                     </a>
                 </li>
-
                 <li>
                     <a href="">
                         <span>Ajax</span>
                     </a>
                 </li>
-
                 <li>
                     <a href="">
                         <span>Jquery</span>
                     </a>
                 </li>
-
                 <li>
                     <a href="">
                         <span>Typscript</span>
@@ -67,7 +65,6 @@ português.
                 </li>
             </ul>
         </li>
-
         <li>
             <a href="">
                 <span>Banco de dados</span>
@@ -78,11 +75,9 @@ português.
                         <span>SQL</span>
                     </a>
                 </li>
-
                 <li>
                     <a href="">
-                        <span>PSQL</span>
-                    </a>
+                        <span>PSQL</span></a>
                 </li>
             </ul>
         </li>
@@ -111,10 +106,10 @@ português.
 
 <div>
     <span>
-    <a href="https://github.com" target="_blank">
-        <img width="7%"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    </a>
+        <a href="https://github.com" target="_blank">
+            <img width="7%"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        </a>
     </span>
     <span>
         <a href="https://git-scm.com" target="_blank">
