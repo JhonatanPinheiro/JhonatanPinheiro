@@ -96,19 +96,25 @@ português.
 ## Tools - Ferramentas
 
 <div>
-    <span>
-        <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank">
-            <img width="15%"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
-        </a>
-    </span>
-    <span>
-        <a href="https://atom.io" target="_blank">
-            <img width="15%"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg">
-        </a>
-    </span>
+    <ul>
+        <li>
+            <a href="">
+                <span>Visual Studio</span>
+            </a>
+        </li>
+        <li>
+            <a href="">
+                <span>GitHub</span>
+            </a>
+        </li>
+        <li>
+            <a href="">
+                <span>Git</span>
+            </a>
+        </li>
+    </ul>
 </div>
+
 
 <br>
 
