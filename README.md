@@ -18,9 +18,6 @@ português.
 
 ### Skills - Habilidades
 <div>
-  <img href="[https://user-images.githubusercontent.com/48757466/231866929-fa7d4eef-5cb2-446c-a75b-fa79aa5a95b1.svg](https://user-images.githubusercontent.com/48757466/231868006-5365461c-db11-4c8a-822b-a1416e020494.svg)">
-</div>
-<div>
     <ul>
         <li>
             <a href="">
