@@ -24,7 +24,7 @@ português.
                 <span>HTML5</span>
             </a>
         </li>
-
+        <BR>
         <li>
             <a href="">
                 <span>CSS3</span>
@@ -109,7 +109,8 @@ português.
 
 <br>
 
-<div <span>
+<div>
+    <span>
     <a href="https://github.com" target="_blank">
         <img width="7%"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
