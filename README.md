@@ -104,6 +104,26 @@ português.
         </li>
         <li>
             <a href="">
+                <span>Atom</span>
+            </a>
+        </li>
+         <li>
+            <a href="">
+                <span>Sublime</span>
+            </a>
+        </li>
+         <li>
+            <a href="">
+                <span>Notepad++</span>
+            </a>
+        </li>
+         <li>
+            <a href="">
+                <span>Brackets</span>
+            </a>
+        </li>
+        <li>
+            <a href="">
                 <span>GitHub</span>
             </a>
         </li>
@@ -114,24 +134,7 @@ português.
         </li>
     </ul>
 </div>
-
-
 <br>
-
-<div>
-    <span>
-        <a href="https://github.com" target="_blank">
-            <img width="7%"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-        </a>
-    </span>
-    <span>
-        <a href="https://git-scm.com" target="_blank">
-            <img width="8%"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-        </a>
-    </span>
-</div>
 
 ## Software
 
