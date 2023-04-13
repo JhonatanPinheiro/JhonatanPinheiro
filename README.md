@@ -181,7 +181,12 @@ português.
 - Gym Rat (Academia)🏋️
 - Travel (Viajar) :airplane:
 
+________________________________________________________________________________________________________
+## Phrases - Frases
 
+- "My biggest adversary is myself" || "Meu maior adversário sou eu mesmo"
+-  "No one is so ignorant that they have nothing to teach, and no one is so wise that they have nothing to learn." || “Ninguém é tão ignorante que não tenha algo a ensinar. Ninguém é tão sábio que não tenha algo a aprender.”  
+-  "I am constantly evolving, which is why I will always be unique, even to myself." || "Estou em constante evolução, por essa razão sempre serei inédito, inclusive para mim"
 
 #### God be Praised
 #### Deus seja Louvado
