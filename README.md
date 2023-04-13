@@ -11,17 +11,79 @@ Sou um profissional na área da Tecnologia da informação e também em vendas. 
 
 
 ### Skills - Habilidades
-
-  <div>
-      <ul>  
-          <li>
+<div>
+    <ul>
+        <li>
             <a href="">
-              <img width="4%" src="https://user-images.githubusercontent.com/48757466/231865453-c46abead-c5d0-4ee6-a48f-17c683dd2641.svg"/>
+                <span>HTML5</span>
             </a>
-            <span>HTML5</span>
-           <li/>
-      </ul>
-  </div>
+        </li>
+
+        <li>
+            <a href="">
+                <span>CSS3</span>
+            </a>
+        </li>
+
+        <li>
+            <a href="">
+                <span>Python 3</span>
+            </a>
+        </li>
+
+        <li>
+            <a href="">
+                <span>JavaScript</span>
+            </a>
+            <ul>
+                <li>
+                    <a href="">
+                        <span>React</span>
+                    </a>
+                </li>
+               
+                <li>
+                    <a href="">
+                        <span>Ajax</span>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="">
+                        <span>Jquery</span>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="">
+                        <span>Typscript</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="">
+                <span>Banco de dados</span>
+            </a>
+            <ul>
+                <li>
+                    <a src="">
+                        <span>SQL</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a src="">
+                        <span>PSQL</span>
+                    </a>
+                </li>
+            </ul>
+
+        </li>
+    </ul>
+</div>
+ 
   
   ## Tools - Ferramentas
   
