@@ -75,7 +75,7 @@ português.
         </li>
         <li>
             <a href="">
-                <span>Banco de dados || Database </span>
+                <span>Database</span> || <span>Banco de dados</span>
             </a>
             <ul>
                 <li>
