@@ -36,12 +36,10 @@ português.
                 <span>Python 3</span>
             </a>
         </li>
-        <br>
         <li>
             <a href="">
                 <span>JavaScript</span>
             </a>
-        <br>
             <ul>
                 <li>
                     <a href="">
