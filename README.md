@@ -178,7 +178,7 @@ português.
 - Blockchain :globe_with_meridians:
 - Financial market (Mercado Financeiro) :chart:
 - Muay Thai :boxing_glove:
-- Gym Rat 🏋️
+- Gym Rat (Academia)🏋️
 - Travel (Viajar) :airplane:
 
 
