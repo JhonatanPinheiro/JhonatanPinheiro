@@ -19,8 +19,8 @@ português.
 ### Skills - Habilidades
 <div>
   <img width="5%" href="https://user-images.githubusercontent.com/48757466/231866929-fa7d4eef-5cb2-446c-a75b-fa79aa5a95b1.svg">
-  <img width="5%" href="https://user-images.githubusercontent.com/48757466/231866929-fa7d4eef-5cb2-446c-a75b-fa79aa5a95b1.svg">
-  <img width="5%" href="https://user-images.githubusercontent.com/48757466/231866929-fa7d4eef-5cb2-446c-a75b-fa79aa5a95b1.svg">
+  <img width="10%" href="">
+  <img width="5%" href="[https://user-images.githubusercontent.com/48757466/231866929-fa7d4eef-5cb2-446c-a75b-fa79aa5a95b1.svg](https://user-images.githubusercontent.com/48757466/231867094-dbfa10ae-81b0-454e-8baf-67a96d04f7c3.svg)">
 </div>
 <div>
     <ul>
