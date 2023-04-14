@@ -25,7 +25,7 @@ português.
             </a>
         </li>
         <li>
-            <a target="_blank" href="https://www.w3schools.com/css/css_howto.asp">
+            <a href="https://www.w3schools.com/css/css_howto.asp">
                 <span>CSS3</span>
             </a>
             <br>
