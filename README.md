@@ -28,13 +28,7 @@ português.
             <a href="https://www.w3schools.com/css/css_howto.asp">
                 <span>CSS3</span>
             </a>
-            <ul>
-                <li>
-                    <a target="_blank" href="[https://docs.python.org/3/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)">
-                         <span>Boostrap 4</span>
-                     </a>
-                </li>
-            </ul>
+           
         </li>
         <li>
             <a target="_blank" href="https://docs.python.org/3/">
@@ -74,7 +68,7 @@ português.
             </ul>
         </li>
         <li>
-            <a href="">
+            <a href="https://www.devmedia.com.br/conceitos-fundamentais-de-banco-de-dados/1649">
                 <span>Database</span> || <span>Banco de dados</span>
             </a>
             <ul>
