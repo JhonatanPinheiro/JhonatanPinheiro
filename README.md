@@ -20,54 +20,54 @@ português.
 <div>
     <ul>
         <li>
-            <a href="">
+            <a target="_blank" href="https://www.w3schools.com/html/html_basic.asp">
                 <span>HTML5</span>
             </a>
         </li>
         <li>
-            <a href="">
+            <a target="_blank" href="https://www.w3schools.com/css/css_howto.asp">
                 <span>CSS3</span>
             </a>
             <ul>
                 <li>
-                    <a href="">
+                    <a target="_blank" href="[https://getbootstrap.com](https://getbootstrap.com/docs/5.3/getting-started/introduction/)">
                         <span>Boostrap 4</span>
                     </a>
                 </li>
             </ul>
         </li>
         <li>
-            <a href="">
+            <a target="_blank" href="https://docs.python.org/3/">
                 <span>Python 3</span>
             </a>
         </li>
         <li>
-            <a href="">
+            <a target="_blank" href="https://www.php.net/docs.php">
                 <span>PHP7</span>
             </a>
         </li>
         <li>
-            <a href="">
+            <a target="_blank" href="https://www.javascript.com/learn/strings">
                 <span>JavaScript</span>
             </a>
             <ul>
                 <li>
-                    <a href="">
+                    <a target="_blank" href="https://reactnative.dev/docs/getting-started">
                         <span>React</span>
                     </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a target="_blank" href="https://www.w3schools.com/xml/ajax_intro.asp">
                         <span>Ajax</span>
                     </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a target="_blank" href="https://api.jquery.com/category/ajax/">
                         <span>Jquery</span>
                     </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a target="_blank" href="https://www.typescriptlang.org/docs/">
                         <span>Typscript</span>
                     </a>
                 </li>
@@ -140,13 +140,13 @@ português.
 
 <div>
     <span>
-        <a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
+        <a target="_blank" href="https://www.microsoft.com/pt-br/windows/" target="_blank">
             <img width="5%"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
         </a>
     </span>
     <span>
-        <a href="https://www.linux.org" target="_blank">
+        <a target="_blank" href="https://www.linux.org" target="_blank">
             <img width="5%"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
         </a>
@@ -157,19 +157,19 @@ português.
 
 <div>
     <span>
-        <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
+        <a target="_blank" href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
             <img width="5%"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
         </a>
     </span>
     <span>
-        <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
+        <a target="_blank" target="_blank" href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
             <img width="5%" alt="Django"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
         </a>
     </span>
     <span>
-        <a href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
+        <a target="_blank" href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
             <img width="5%"
                 src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" />
         </a>
