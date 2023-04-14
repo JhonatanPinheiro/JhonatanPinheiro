@@ -31,8 +31,8 @@ português.
             <BR>
              <ul>
                 <li>
-                    <a target="_blank" href="[https://docs.python.org/3/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)">
-                        <span>Boostrap 4</span>
+                    <a target="_blank" href="[https://getbootstrap.com/docs/5.3/getting-started/introduction/)">
+                        <span>Bootstrap 4</span>
                     </a>
                 </li>
               </ul>
