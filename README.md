@@ -28,7 +28,6 @@ português.
             <a href="https://www.w3schools.com/css/css_howto.asp">
                 <span>CSS3</span>
             </a>
-            <br>
             <ul>
                 <li>
                     <a target="_blank" href="[https://docs.python.org/3/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)">
