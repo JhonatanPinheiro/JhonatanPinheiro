@@ -79,12 +79,12 @@ português.
             </a>
             <ul>
                 <li>
-                    <a href="">
+                    <a href="https://dev.mysql.com/doc/">
                         <span>SQL</span>
                     </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a href="https://www.postgresql.org/docs/current/app-psql.html">
                         <span>PSQL</span></a>
                 </li>
             </ul>
@@ -98,37 +98,37 @@ português.
 <div>
     <ul>
         <li>
-            <a href="">
+            <a href="https://code.visualstudio.com/docs">
                 <span>Visual Studio</span>
             </a>
         </li>
         <li>
-            <a href="">
+            <a href="#">
                 <span>Atom</span>
             </a>
         </li>
          <li>
-            <a href="">
+            <a href="https://www.sublimetext.com/docs/">
                 <span>Sublime</span>
             </a>
         </li>
          <li>
-            <a href="">
+            <a href="https://notepad-plus-plus.org">
                 <span>Notepad++</span>
             </a>
         </li>
          <li>
-            <a href="">
+            <a href="https://brackets.io/docs/current/modules/document/DocumentManager.html">
                 <span>Brackets</span>
             </a>
         </li>
         <li>
-            <a href="">
+            <a href="https://docs.github.com/en">
                 <span>GitHub</span>
             </a>
         </li>
         <li>
-            <a href="">
+            <a href="https://git-scm.com/docs/git/en">
                 <span>Git</span>
             </a>
         </li>
