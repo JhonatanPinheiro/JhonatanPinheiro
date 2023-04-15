@@ -69,7 +69,7 @@ português.
                 </li>
                 <li>
                     <a target="_blank" href="https://www.typescriptlang.org/docs/">
-                        <span>Typscript</span>
+                        <span>Typescript</span>
                     </a>
                 </li>
             </ul>
