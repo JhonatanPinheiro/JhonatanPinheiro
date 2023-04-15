@@ -2,7 +2,7 @@
 
 
 
-## About to me (Eng)
+## <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png"> About to me (Eng)
 
 I am a professional in the Information Technology and Sales fields. I have worked as a Computer Support Analyst at
 Adesso and as a Sales Supervisor at Burger King. I have a degree in Systems Analysis and Development (IT). Additionally,
@@ -196,7 +196,7 @@ Soy un profesional en el campo de la Tecnología de la Información y las Ventas
 ________________________________________________________________________________________________________
 ## Phrases - Frases
 
-- <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png"> 🇺🇸| "My biggest adversary is myself."    🇧🇷| "Meu maior adversário sou eu mesmo."    🇪🇸| "Mi mayor adversario soy yo mismo."
+-  🇺🇸| "My biggest adversary is myself."    🇧🇷| "Meu maior adversário sou eu mesmo."    🇪🇸| "Mi mayor adversario soy yo mismo."
 
 - 🇺🇸| "No one is so ignorant that they have nothing to teach, and no one is so wise that they have nothing to learn."   |🇧🇷| “Ninguém é tão ignorante que não tenha algo a ensinar. Ninguém é tão sábio que não tenha algo a aprender.”    🇪🇸| "Nadie es tan ignorante que no tenga nada que enseñar. Nadie es tan sabio que no tenga nada que aprender."
 - 🇺🇸| "I am constantly evolving, which is why I will always be unique, even to myself."   |🇧🇷| "Estou em constante evolução, por essa razão sempre serei inédito, inclusive para mim."   |🇪🇸| "Estoy en constante evolución, por esta razón, siempre seré nuevo, incluso para mí mismo."
