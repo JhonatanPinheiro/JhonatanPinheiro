@@ -10,7 +10,7 @@ I have basic knowledge of Spanish and intermediate proficiency in English, in ad
 Portuguese.
 
 
-## Sobre Mim <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234393-71a0f5b9-fda8-4914-b3d9-fb88e5d6220a.png">
+## Sobre Mim <img width="4%" src="https://user-images.githubusercontent.com/48757466/232234393-71a0f5b9-fda8-4914-b3d9-fb88e5d6220a.png">
 
 Sou um profissional na área da Tecnologia da informação e também em vendas. Já trabalhei como Analista de suporte
 computacional na Adesso e como Supervisor de vendas no Burger King. Sou formado em Análise e Desenvolvimento de Sistemas
@@ -203,10 +203,12 @@ ________________________________________________________________________________
 - "My biggest adversary is myself."
 - "No one is so ignorant that they have nothing to teach, and no one is so wise that they have nothing to learn."   
 - "I am constantly evolving, which is why I will always be unique, even to myself."    
+
 | 🇧🇷 |
  - "Meu maior adversário sou eu mesmo."   
  - “Ninguém é tão ignorante que não tenha algo a ensinar. Ninguém é tão sábio que não tenha algo a aprender.”  
  - "Estou em constante evolução, por essa razão sempre serei inédito, inclusive para mim."
+
 | 🇪🇸 | 
 - "Mi mayor adversario soy yo mismo."
 - "Nadie es tan ignorante que no tenga nada que enseñar. Nadie es tan sabio que no tenga nada que aprender."
