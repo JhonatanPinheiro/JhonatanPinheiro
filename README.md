@@ -194,13 +194,14 @@ Soy un profesional en el campo de la Tecnología de la Información y las Ventas
 - Travel (Viajar) :airplane:
 
 ________________________________________________________________________________________________________
-## Phrases - Frases
+## Phrases - Frases - 
 
-- "My biggest adversary is myself." |-| "Meu maior adversário sou eu mesmo."
--  "No one is so ignorant that they have nothing to teach, and no one is so wise that they have nothing to learn." |-| “Ninguém é tão ignorante que não tenha algo a ensinar. Ninguém é tão sábio que não tenha algo a aprender.”  
--  "I am constantly evolving, which is why I will always be unique, even to myself." |-| "Estou em constante evolução, por essa razão sempre serei inédito, inclusive para mim."
+- "My biggest adversary is myself." |-| "Meu maior adversário sou eu mesmo." |-| "Mi mayor adversario soy yo mismo"
+-  "No one is so ignorant that they have nothing to teach, and no one is so wise that they have nothing to learn." |-| “Ninguém é tão ignorante que não tenha algo a ensinar. Ninguém é tão sábio que não tenha algo a aprender.”  |-| "Nadie es tan ignorante que no tenga nada que enseñar. Nadie es tan sabio que no tenga nada que aprender."
+-  "I am constantly evolving, which is why I will always be unique, even to myself." |-| "Estou em constante evolução, por essa razão sempre serei inédito, inclusive para mim." |-| "Estoy en constante evolución, por esta razón, siempre seré nuevo, incluso para mí mismo".
 
-#### God be Praised - Deus seja Louvado
+
+#### God be Praised - Deus seja Louvado - Alabado sea Dios
 
 
 
