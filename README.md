@@ -190,7 +190,7 @@ Soy un profesional en el campo de la Tecnología de la Información y las Ventas
 - Blockchain :globe_with_meridians:
 - Financial market (Mercado Financeiro) :chart:
 - Muay Thai :boxing_glove:
-- Gym Rat (Academia)🏋️
+- Gym Rat (Academia):weight_lifting_man:
 - Travel (Viajar) :airplane:
 
 ________________________________________________________________________________________________________
