@@ -9,13 +9,16 @@ Adesso and as a Sales Supervisor at Burger King. I have a degree in Systems Anal
 I have basic knowledge of Spanish and intermediate proficiency in English, in addition to my native language:
 Portuguese.
 
-## Sobre Mim (Pt-Br)
+
+## Sobre Mim <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234393-71a0f5b9-fda8-4914-b3d9-fb88e5d6220a.png">
+
 Sou um profissional na área da Tecnologia da informação e também em vendas. Já trabalhei como Analista de suporte
 computacional na Adesso e como Supervisor de vendas no Burger King. Sou formado em Análise e Desenvolvimento de Sistemas
 (TI) . Além disso, possuo conhecimentos básicos de espanhol e intermediário no inglês, além da minha língua materna: o
 português.
 
-## Acerca de mí (Es-Esp)
+
+## Acerca de mí <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234404-56568531-4a5f-45e2-b62d-38c7fccde3c4.png">
 Soy un profesional en el campo de la Tecnología de la Información y las Ventas. He trabajado como Analista de Soporte Informático en Adesso y como Supervisor de Ventas en Burger King. Tengo un título en Análisis y Desarrollo de Sistemas (TI). Además, tengo conocimientos básicos de español y conocimientos intermedios de inglés, además de mi lengua materna: el portugués.
 
 ### Skills - Habilidades
