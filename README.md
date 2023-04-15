@@ -15,6 +15,8 @@ computacional na Adesso e como Supervisor de vendas no Burger King. Sou formado 
 (TI) . Além disso, possuo conhecimentos básicos de espanhol e intermediário no inglês, além da minha língua materna: o
 português.
 
+## Acerca de mí (Es-Esp)
+Soy un profesional en el campo de la Tecnología de la Información y las Ventas. He trabajado como Analista de Soporte Informático en Adesso y como Supervisor de Ventas en Burger King. Tengo un título en Análisis y Desarrollo de Sistemas (TI). Además, tengo conocimientos básicos de español y conocimientos intermedios de inglés, además de mi lengua materna: el portugués.
 
 ### Skills - Habilidades
 <div>
