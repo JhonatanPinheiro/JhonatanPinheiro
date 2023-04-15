@@ -2,7 +2,7 @@
 
 
 
-## <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png"> About to me (Eng)
+## <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png"> About to me <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png">
 
 I am a professional in the Information Technology and Sales fields. I have worked as a Computer Support Analyst at
 Adesso and as a Sales Supervisor at Burger King. I have a degree in Systems Analysis and Development (IT). Additionally,
