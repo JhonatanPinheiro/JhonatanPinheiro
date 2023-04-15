@@ -215,9 +215,7 @@ ________________________________________________________________________________
 - "Estoy en constante evolución, por esta razón, siempre seré nuevo, incluso para mí mismo."
 
 
-#### God be Praised 🇺🇸
-### Deus seja Louvado 🇧🇷
-### Alabado sea Dios 🇪🇸
+#### God be Praised - Deus seja Louvado - Alabado sea Dios 
 
 
 <!--
