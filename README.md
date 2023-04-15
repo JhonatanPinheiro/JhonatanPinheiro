@@ -205,7 +205,7 @@ ________________________________________________________________________________
 #### God be Praised - Deus seja Louvado - Alabado sea Dios
 
 
-
+🇧🇷 🇪🇸 🇺🇸
 
 <!--
 **JhonatanPinheiro/JhonatanPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
