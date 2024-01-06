@@ -4,22 +4,17 @@
 
 ## About to me <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png">
 
-I am a professional in the Information Technology and Sales fields. I have worked as a Computer Support Analyst at
-Adesso and as a Sales Supervisor at Burger King. I have a degree in Systems Analysis and Development (IT). Additionally,
-I have basic knowledge of Spanish and intermediate proficiency in English, in addition to my native language:
-Portuguese.
+I am a professional with solid experience in the areas of Information Technology and Sales. I hold an academic degree in Systems Analysis and Development (IT) and in addition to being a native Portuguese speaker, I also have an intermediate level of English and understand Spanish to a certain level. Throughout my career, I have served as a Computer Support Analyst at Adesso, worked as a Sales Supervisor at Burger King, and have been employed as a Database Administrator/ Web Developer at Radiusnet since.
 
 
 ## Sobre Mim <img width="4%" src="https://user-images.githubusercontent.com/48757466/232234393-71a0f5b9-fda8-4914-b3d9-fb88e5d6220a.png">
 
-Sou um profissional na área da Tecnologia da informação e também em vendas. Já trabalhei como Analista de suporte
-computacional na Adesso e como Supervisor de vendas no Burger King. Sou formado em Análise e Desenvolvimento de Sistemas
-(TI) . Além disso, possuo conhecimentos básicos de espanhol e intermediário no inglês, além da minha língua materna: o
-português.
+Sou um profissional com experiência na área de Tecnologia da Informação e Vendas. Possuo formação acadêmica em Análise e Desenvolvimento de Sistemas (TI), além de ser nativo no idioma português, tenho um nível intermediário no inglês e pré-intermediário no espanhol. Ao longo da minha carreira, atuei como Analista de Suporte de Computadores na Adesso, desempenhei o cargo de Supervisor de Vendas no Burger King e atualmente estou trabalhando como Desenvolvedor Web / Administrador de Banco de Dados na Radiusnet.
 
 
 ## Acerca de mí <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234404-56568531-4a5f-45e2-b62d-38c7fccde3c4.png">
-Soy un profesional en el campo de la Tecnología de la Información y las Ventas. He trabajado como Analista de Soporte Informático en Adesso y como Supervisor de Ventas en Burger King. Tengo un título en Análisis y Desarrollo de Sistemas (TI). Además, tengo conocimientos básicos de español y conocimientos intermedios de inglés, además de mi lengua materna: el portugués.
+
+Soy un profesional con experiencia en las áreas de Tecnología de la Información y Ventas. Tengo una formación académica en Análisis y Desarrollo de Sistemas (TI), y además de ser hablante nativo de portugués, tengo un nivel intermedio de inglés y un nivel preintermedio de español.A lo largo de mi carrera, he trabajado como Analista de Soporte de Computadoras en Adesso, ocupé el puesto de Supervisor de Ventas en Burger King y actualmente estoy empleado como Desarrollador Web / Administrador de Bases de Datos en Radiusnet.
 
 ### Skills - Habilidades
 <div>
