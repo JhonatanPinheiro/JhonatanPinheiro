@@ -164,7 +164,7 @@ Soy un profesional con experiencia en las áreas de Tecnología de la Informaci�
         </a>
     </span>
     <span>
-        <a target="_blank" target="_blank" href="https://www.linkedin.com/in/jhonatan-pinheiro-96674316b/" target="_blank">
+        <a target="_blank" target="_blank" href="https://jhonatanpinheiro.vercel.app/index.html" target="_blank">
             <img width="5%" alt="Django"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
         </a>
